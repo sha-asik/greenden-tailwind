@@ -15,10 +15,4 @@
    - **Location**: If applicable, mention your physical store location or service area.
    - **Feedback**: Encourage customers to provide feedback or reviews.
 
-(13) undefined. https://fonts.gstatic.com.
-(14) undefined. https://fonts.googleapis.com/css2?family=Poppins:wght@300.
-(15) undefined. https://raw.githubusercontent.com/codewithsadee/anon-ecommerce-website/master/assets/images/newsletter.png.
-(16) undefined. https://raw.githubusercontent.com/codewithsadee/anon-ecommerce-website/master/assets/images/products/jewellery-1.jpg.
-(17) 10 tips to writing the best product description - floristPro. https://www.floristpro.co.uk/news-14/10-tips-to-writing-the-best-product-description.htm.
-(18) Five Ways To Describe A Flower Shop Business. https://flowershopbusinessboss.com/five-ways-to-describe-a-flower-shop-business.
-(19) Ecommerce product descriptions. How to Write a Product Description.. https://www.abbikirstencollections.com/ecommerce-product-descriptions/.
+
